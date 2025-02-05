@@ -1,10 +1,10 @@
-# 🌟 [Your Name] – [Your Designation]
+# 🌟 [Abdullah Al Noman] – [Web Developer]
 
 <img src="https://raw.githubusercontent.com/aaln0man/aaln0man/main/images/cover.svg" />
 
 ## 👋 About Me
 
-Hi! I'm **[Your Name]**, a passionate **[Your Designation]** with a knack for creating user-friendly and efficient applications. I enjoy learning new technologies and working on innovative projects.
+Hi! I'm **[Abdullah Al Noman]**, a passionate **[Web Developer]** with a knack for creating user-friendly and efficient applications. I enjoy learning new technologies and working on innovative projects.
 
 ## 🚀 What I'm Up To
 
@@ -36,12 +36,10 @@ Hi! I'm **[Your Name]**, a passionate **[Your Designation]** with a knack for cr
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-110621148/)  
 
-📍 **Location:** [Your City, Country]  
-📧 **Email:** [your.email@example.com]  
+📍 **Location:** [Dhaka, Bangladesh]  
+📧 **Email:** [aalncse@gmail.com]  
 
 ---
 
@@ -57,38 +55,3 @@ Hi! I'm **[Your Name]**, a passionate **[Your Designation]** with a knack for cr
 
 ---
 
-## 📌 Pinned Repositories
-
-### 🔗 [Project 1 Name](https://github.com/your-username/project1)
-**Description:** A short overview of the project.  
-🔗 **Live Demo:** [Project Link](https://your-live-demo.com)  
-🛠️ **Tech Stack:** React, Node.js, MongoDB  
-
-### 🔗 [Project 2 Name](https://github.com/your-username/project2)
-**Description:** A short overview of the project.  
-🔗 **Live Demo:** [Project Link](https://your-live-demo.com)  
-🛠️ **Tech Stack:** HTML, CSS, JavaScript  
-
-### 🔗 [Project 3 Name](https://github.com/your-username/project3)
-**Description:** A short overview of the project.  
-🔗 **Live Demo:** [Project Link](https://your-live-demo.com)  
-🛠️ **Tech Stack:** Python, Flask, PostgreSQL  
-
----
-
-### 📖 Repository README Template
-
-Each pinned repository should include a **README.md** file with:
-
-- 📌 **Overview**: A concise project description  
-- 🖼️ **Screenshot**: Clean UI/UX preview (if applicable)  
-- 💡 **Core Features**: List of key functionalities  
-- 🛠️ **Tech Stack**: Languages & tools used  
-- 🔗 **Live Demo**: Link to the deployed version  
-- ⚙️ **Installation Guide**: Steps to run the project locally  
-- 📜 **Dependencies**: List of required libraries/frameworks  
-
----
-
-This is a professional and structured GitHub profile README template. 🚀  
-Make sure to replace placeholders (`[Your Name]`, `[Your Designation]`, etc.) with your actual details. 😊
