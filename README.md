@@ -1,6 +1,6 @@
-# 🌟 Abdullah Al Noman | Web Developer
-
 ![Header](./banner.png)
+
+# 🌟 Abdullah Al Noman | Web Developer
 
 ## 👋 About Me
 
