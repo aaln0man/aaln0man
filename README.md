@@ -38,9 +38,6 @@ Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-110621148/)  
 
-📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** `aalncse@gmail.com`
-
 ---
 
 ## 📊 GitHub Stats
