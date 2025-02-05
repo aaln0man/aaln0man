@@ -38,8 +38,8 @@ Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-110621148/)  
 
-📍 **Location:** [Dhaka, Bangladesh]  
-📧 **Email:** [aalncse@gmail.com]  
+📍 **Location:** Dhaka, Bangladesh  
+📧 **Email:** aalncse@gmail.com
 
 ---
 
@@ -47,9 +47,7 @@ Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating 
 
 
 
-<p align=left>
-      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=aaln0man&theme=tokyonight&hide_border=true" alt="Readme Streak" />
-</p> 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aaln0man)](https://git.io/streak-stats)
 
 
 
