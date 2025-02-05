@@ -1,6 +1,6 @@
 # 🌟 [Your Name] – [Your Designation]
 
-![Banner Image](https://your-image-link.com)
+[<img src="https://raw.githubusercontent.com/aaln0man/aaln0man/master/intro.gif" alt="👋 Hi there! I'm Noman" title="👋 Hi there! I'm (Noman)"/>]
 
 ## 👋 About Me
 
