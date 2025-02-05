@@ -47,10 +47,14 @@ Hi! I'm **[Your Name]**, a passionate **[Your Designation]** with a knack for cr
 
 ## 📊 GitHub Stats
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=aalnoman&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<p align="left">
+<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
 </p>
+
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=aaln0man&theme=tokyonight&hide_border=true" alt="Noman Readme Streak" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=aaln0man&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="Noman Readme Stats" />
+</p> 
 
 ---
 
