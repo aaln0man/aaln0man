@@ -1,10 +1,10 @@
-# 🌟 [Abdullah Al Noman] – [Web Developer]
+# 🌟 Abdullah Al Noman – Web Developer
 
 <img src="https://raw.githubusercontent.com/aaln0man/aaln0man/main/images/cover.svg" />
 
 ## 👋 About Me
 
-Hi! I'm **[Abdullah Al Noman]**, a passionate **[Web Developer]** with a knack for creating user-friendly and efficient applications. I enjoy learning new technologies and working on innovative projects.
+Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating user-friendly and efficient applications. I enjoy learning new technologies and working on innovative projects.
 
 ## 🚀 What I'm Up To
 
