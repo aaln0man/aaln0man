@@ -1,6 +1,6 @@
 # 🌟 [Your Name] – [Your Designation]
 
-<img src="https://raw.githubusercontent.com/aaln0man/aaln0man/main/images/cover.svg" />
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 
 ## 👋 About Me
 
