@@ -47,8 +47,6 @@ Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating 
 
 ![aaln0man's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaln0man&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aaln0man)]
-
 
 ---
 
