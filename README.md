@@ -44,7 +44,6 @@ Hi! I'm Abdullah Al Noman, a passionate Web Developer with a knack for creating 
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aaln0man&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
-    <img  width=400 src="https://nirzak-stats.vercel.app/api?username=aaln0man&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
 
 ![aaln0man's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaln0man&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
