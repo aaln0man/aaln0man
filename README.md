@@ -1,6 +1,6 @@
 # 🌟 Abdullah Al Noman | Web Developer
 
-<img src="https://raw.githubusercontent.com/aaln0man/aaln0man/main/images/cover.svg" />
+![Header](./banner.png)
 
 ## 👋 About Me
 
