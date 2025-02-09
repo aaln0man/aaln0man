@@ -35,7 +35,7 @@ Hi! I'm **Abdullah Al Noman**, a passionate **Web Developer** with a knack for c
 </p>
 
 ### 🛠️ Tools  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code" alt="VS Code">
