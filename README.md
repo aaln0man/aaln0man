@@ -3,7 +3,7 @@
   <img src="./banner.png" alt="Header" width="100%">
 </p>
 
-# 🌟 Abdullah Al Noman | Web Developer
+<p align="center"># 🌟 Abdullah Al Noman | Web Developer</p>
 
 ## 👋 About Me
 
